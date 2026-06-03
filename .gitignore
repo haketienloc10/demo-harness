@@ -1,0 +1,12 @@
+target
+
+node_modules
+.next
+out
+coverage
+
+harness.db
+harness.db-*
+
+.env*.local
+npm-debug.log*
